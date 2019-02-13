@@ -8,3 +8,4 @@
 - Hacer peticiones GET/POST/PUT/DELETE
 - Nodemailer
 - File upload con y sin CDN
+- Git branches
